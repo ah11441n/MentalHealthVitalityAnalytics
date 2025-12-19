@@ -53,4 +53,4 @@ DATA CLEANING :
 11. Two columns, 'work_interfere' and 'self_employed,' contain null values, which will be filled with 'Don't Know' and 'NOT self_employed,' respectively.
 12. The data will be prepared for further processing after handling the null values.
 
-In the next phase of our project, we delve into the heart of our cleaned dataset, embarking on a comprehensive Exploratory Data Analysis (EDA) to uncover valuable insights and patterns surrounding workplace mental health.
+In the next phase of my project, I'll delve into the heart of my cleaned dataset, embarking on a comprehensive Exploratory Data Analysis (EDA) to uncover valuable insights and patterns surrounding workplace mental health.
